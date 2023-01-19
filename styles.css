@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#btn-signup{
+    background-color: #3271b3;
+    padding: 10px 20px;
+}
+
+#btn-join{
+    padding: 7px 40px;
+
+}
+
+#btn-courses{
+    background-color: #3271b3;
+    padding: 8px 30px;
+    margin-left: 20px;
+}
+
+.nav-text{
+    color: #3271b3;
+    font-size: 17px;
+}
+
+#img-header{
+    height: 100%;
+    width: 100%;
+    /* margin-top: 40px; */
+}
+
+.card-style{
+    height: 130px;
+    width: 140px;
+}
+
+
+.container-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.text-header{
+    font-size: 48px;
+}
+
+.contents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content-section{
+    padding: 9px 60px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-text{
+    vertical-align: middle;
+    text-align: center;
+}
+
+#text-div{
+    background-color: #3271b3;
+}
+
+.content-section img{
+    padding: 10px;
+}
+
+#text-back{
+    background-color: #3271b3;
+}
